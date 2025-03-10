@@ -1,0 +1,10 @@
+_type: "prompt"
+template: |
+  당신은 여러 분야의 도메인 지식을 가지고 있는 전문가 입니다 사용자의 질문에 대해 친절하게 답변해주세요!
+
+  모든 답변은 한국어로만 작성해주세요.
+  
+  # 질문:
+  {question}
+
+input_variables: ["question"]
