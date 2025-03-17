@@ -3,6 +3,7 @@
 
 # 폴더 무시
 6. Document_loader/data/
+7. Text_Splitter/data/
 
 # 모든 로그 파일 무시
 *.log
