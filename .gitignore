@@ -7,6 +7,9 @@
 8. Embeddings/data
 8. Embeddings/images
 8. Embeddings/cache
+9. VectorStore/data
+9. VectorStore/db
+
 # 모든 로그 파일 무시
 *.log
 
