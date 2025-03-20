@@ -2,6 +2,7 @@
 # 6. Document_loader/data/test.pdf
 
 # 폴더 무시
+0. Project/data
 6. Document_loader/data/
 7. Text_Splitter/data/
 8. Embeddings/data
@@ -9,6 +10,8 @@
 8. Embeddings/cache
 9. VectorStore/data
 9. VectorStore/db
+10. Retriever/data
+
 
 # 모든 로그 파일 무시
 *.log
