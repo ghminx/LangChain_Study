@@ -11,6 +11,8 @@
 9. VectorStore/data
 9. VectorStore/db
 10. Retriever/data
+11. Reranker/data
+11. Reranker/Reranker.md
 
 
 # 모든 로그 파일 무시
