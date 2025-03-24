@@ -2,6 +2,7 @@
 # 6. Document_loader/data/test.pdf
 
 # 폴더 무시
+99. 강의_project
 0. Project/data
 6. Document_loader/data/
 7. Text_Splitter/data/
@@ -13,6 +14,7 @@
 10. Retriever/data
 11. Reranker/data
 11. Reranker/Reranker.md
+12. 12.RAG/data
 
 
 # 모든 로그 파일 무시
