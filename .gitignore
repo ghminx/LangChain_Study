@@ -14,7 +14,9 @@
 10. Retriever/data
 11. Reranker/data
 11. Reranker/Reranker.md
-12. 12.RAG/data
+12. RAG/data
+12. RAG/cache
+13. Chains/data
 
 
 # 모든 로그 파일 무시
