@@ -17,7 +17,7 @@
 12. RAG/data
 12. RAG/cache
 13. Chains/data
-
+16. Agent/img
 
 # 모든 로그 파일 무시
 *.log
